@@ -1,0 +1,179 @@
+houghdemoproject.lpi Note: Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+ Progress: Found all unit files
+houghdemoproject.lpr(1,26) Note: Added MODE Delphi syntax modifier after unit name.
+ : 
+ : *** Converting unit files belonging to project/package ***
+Unit_HoughDEMO.pas(1,21) Note: Added MODE Delphi syntax modifier after unit name.
+Unit_HoughTransformation.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+Unit_HoughTransformation.pas(1,31) Note: Added MODE Delphi syntax modifier after unit name.
+ : 
+ : *** Fixing used units and Repairing form files ***
+Unit_HoughDEMO.pas Note: Removed property "TextHeight".
+Unit_HoughDEMO.pas Note: Removed property "PixelsPerInch".
+Unit_HoughDEMO.pas Note: Removed property "OldCreateOrder".
+Unit_HoughDEMO.pas Note: Removed property "Menu".
+Unit_HoughDEMO.pas Note: Removed property "Font.Style".
+Unit_HoughDEMO.pas Note: Removed property "Font.Name".
+Unit_HoughDEMO.pas Note: Removed property "Font.Height".
+Unit_HoughDEMO.pas Note: Removed property "Font.Color".
+Unit_HoughDEMO.pas Note: Removed property "Font.Charset".
+Unit_HoughDEMO.pas Note: Removed property "Color".
+Unit_HoughDEMO.pas Note: Removed property "ClientWidth".
+Unit_HoughDEMO.pas Note: Removed property "ClientHeight".
+Unit_HoughDEMO.pas Note: Removed property "Caption".
+Unit_HoughDEMO.pas Note: Removed property "Top".
+Unit_HoughDEMO.pas Note: Removed property "Left".
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Removed property "Caption".
+Unit_HoughDEMO.pas Note: Removed property "Caption".
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "StdCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Spin" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "ExtCtrls" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+Unit_HoughDEMO.pas Note: Added unit "Menus" to uses section.
+ Progress: Conversion took: 00:00:30
+ : Conversion Ready.
